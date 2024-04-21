@@ -21,3 +21,10 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 - Comparisons
 - If, elif, else statements
 - Best practices
+
+### Lesson 1 - Lists and NumPy Arrays
+
+- defining lists
+- accessing list elements
+- installing numpy
+- using numpy arrays
