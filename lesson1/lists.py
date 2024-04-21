@@ -17,7 +17,7 @@ def main():
     # Accessing elements - note that the first element is at position 0
     print(instruments[0])   # prints piano
     print(big_mess[2])      # prints 98.5
-    print(instruments[-1])
+    print(instruments[-1])  # prints OB6
     print(big_mess[4][-2])  # prints oud - check that you can see why!
 
     # Accessing multiple elements
