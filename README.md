@@ -10,9 +10,9 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 
 ### Lesson 0 - Getting up to speed
 
-- how to set up a python environment through miniconda
-- setting up a python project location
-- navigating the terminal to the project directory
+- Setting up a python environment through miniconda
+- Setting up a python project location
+- Navigating the terminal to the project directory
 - Assigning variables
 - Commenting
 - Basic data types: integers, floats, bools and strings
@@ -24,7 +24,24 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 
 ### Lesson 1 - Lists and NumPy Arrays
 
-- defining lists
-- accessing list elements
-- installing numpy
-- using numpy arrays
+- Defining lists
+- Accessing list elements
+- Installing numpy
+- Using numpy arrays
+
+### Lesson 2 - The Sine function and plotting
+
+- Properties of the sine function
+- Setting the frequency accurately
+- Showing identities
+- Plotting with matplotlib.pyplot
+- Homework assignment
+
+### Lesson 3 - Audio I/O
+
+- Basics of digital audio
+- Sample rate (A.k.a. Sampling frequency)
+- Preparing audio files for python synthesis
+- Using librosa.read()
+- Using soundfile.write()
+- Digital Synth introduction
