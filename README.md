@@ -44,6 +44,7 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 - Basics of digital audio
 - Sample rate (A.k.a. Sampling frequency)
 - Preparing audio files for python synthesis
-- Using librosa.read()
+- Tuples
+- Using librosa.load()
 - Using soundfile.write()
 - Digital Synth introduction
