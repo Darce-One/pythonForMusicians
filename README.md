@@ -39,8 +39,6 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 
 ### Lesson 3 - Audio I/O
 
-#### Coming soon
-
 - Basics of digital audio
 - Sample rate (A.k.a. Sampling frequency)
 - Preparing audio files for python synthesis
