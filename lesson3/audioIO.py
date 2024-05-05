@@ -63,7 +63,7 @@ def loadingAudio():
         This is the data type of the sample points in the resulting audio array.
     * res_type='soxr':
         This is the type of resampling to use if the file needs to be resampled on
-        load. See SciPy.signals.resample() for more options.
+        load. See librosa.resample() for more options.
         """
 
     # Say you're loading in an audio file with a project-wide sample-rate, you
