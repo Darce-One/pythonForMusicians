@@ -46,3 +46,12 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 - Using librosa.load()
 - Using soundfile.write()
 - Digital Synth introduction
+
+### Lesson 4 - Classic Wave Shapes
+
+- Creating triangle waves
+- Creating sawtooth waves
+- Creating square waves
+- 2 ways for pulse-width modulation
+- Creating chords
+- Ring modulation
