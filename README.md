@@ -55,3 +55,9 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 - 2 ways for pulse-width modulation
 - Creating chords
 - Ring modulation
+
+### Lesson 5 - OOP and the AudioProcessor class
+
+- Defining and instantiating classes
+- Processing blocks of audio
+- Using the audioProcessor to build a basic random granulator.
