@@ -61,3 +61,10 @@ There shouldn't be any need to clone this repository, it's here as a reference t
 - Defining and instantiating classes
 - Processing blocks of audio
 - Using the audioProcessor to build a basic random granulator.
+
+### Lesson 6 - Live Audio Processing
+
+- Opening audio streams
+- Audio stream settings
+- Reading audio streams
+- Writing audio streams
